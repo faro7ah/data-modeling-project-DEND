@@ -42,8 +42,8 @@ which means of decrease in data integrity and query flexibility.
 > **Make sure to click "Restart kernel" to close the connection to the database after running this notebook**.
 
 # Resources:
-- [Using the Serial Data Type in PostgreSQL] (https://chartio.com/resources/tutorials/how-to-define-an-auto-increment-primary-key-in-postgresql/)
-- [Data Modeler for Professionals] (https://www.vertabelo.com/)
+- [Using the Serial Data Type in PostgreSQL](https://chartio.com/resources/tutorials/how-to-define-an-auto-increment-primary-key-in-postgresql/)
+- [Data Modeler for Professionals](https://www.vertabelo.com/)
 
 
 
