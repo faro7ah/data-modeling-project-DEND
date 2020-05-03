@@ -8,17 +8,17 @@ In this project, we will apply what we've applied to data modeling with Postgres
 
 # Files Descriptions:
 
-•	Data folder: it is at the home page of the project, which includes all JSONS files.
+•	`Data folder`: it is at the home page of the project, which includes all JSONS files.
 
-•	Sql_queries.py: includes all of our SQL queries.
+•	`Sql_queries.py`: includes all of our SQL queries.
 
-•	Create_tables.py: include creates, Inserts, drops tables. we should be running this file to reset our tables before running ETL scripts.
+•	`Create_tables.py`: include creates, Inserts, drops tables. we should be running this file to reset our tables before running ETL scripts.
 
-•	Test.ipynb:  this notebook runs our SQL queries to confirm our records were successfully inserted into each table.
+•	`Test.ipynb`:  this notebook runs our SQL queries to confirm our records were successfully inserted into each table.
 
-•	Etl.ipynb:  notebook to develop ETL processes for each table, in this notebook we read files from **song_data and log_data**, then load it into our tables.
+•	`Etl.ipynb`:  notebook to develop ETL processes for each table, in this notebook we read files from `song_data and log_data`, then load it into our tables.
 
-•	Etl.py:  we used** etl.ipynb**notebook  to complete etl.py to process the entire datasets.
+•	`Etl.py`:  we used `etl.ipynb` notebook  to complete etl.py to process the entire datasets.
 
 •	README.md : includes a summary of our project.
 
