@@ -2,7 +2,7 @@
 
 In this project, we will apply what we've applied to data modeling with Postgres and build an ETL pipeline using Python. To complete this project, we will need to define fact and dimension tables for a star schema for a particular analytic focus, and write an ETL pipeline that transfers data from files in two local directories into these tables in Postgres by Python and SQL.
 
-**This project is a part of [Data Engineering Nanodegree](https://www.udacity.com/course/data-engineer-nanodegree--nd027)**
+> **This project is a part of [Data Engineering Nanodegree](https://www.udacity.com/course/data-engineer-nanodegree--nd027)**
 
 
 
