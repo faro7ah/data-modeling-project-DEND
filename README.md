@@ -1,4 +1,4 @@
-# Data modeling with Postgres
+# Data modeling with Postgres:
 
 In this project, we will apply what we've applied to data modeling with Postgres and build an ETL pipeline using Python. To complete this project, we will need to define fact and dimension tables for a star schema for a particular analytic focus, and write an ETL pipeline that transfers data from files in two local directories into these tables in Postgres by Python and SQL.
 
@@ -38,7 +38,8 @@ which means of decrease in data integrity and query flexibility.
 
 - Run `create_tables.py` to create our database and tables.
 - Run `etl.py` on the terminal to process and load data into the database.
-- Run `test.ipynb` to confirm the creation of our tables with the correct columns. **Make sure to click "Restart kernel" to close the connection to the database after running this notebook**.
+- Run `test.ipynb` to confirm the creation of our tables with the correct columns. 
+> **Make sure to click "Restart kernel" to close the connection to the database after running this notebook**.
 
 
 
