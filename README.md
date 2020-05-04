@@ -24,7 +24,7 @@ In this project, we will apply what we've applied to data modeling with Postgres
 
 # Star Schema design:
 
-In this project, we used the Star Schema, which is a subset of "fact and dimension tables". Fact Table is SongPlays and  Dimension Tables are Users, Songs, Artists, and Time.
+In this project, we used the Star Schema, which is a subset of "fact and dimension tables".
 The Star Schema includes one *fact* table (`SongPlays`), and 4 *dimension* tables (`Users`, `Songs`, `Artists`, `Time`)
 
 ![Star Schema](star_schema.jpg)
