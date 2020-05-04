@@ -31,7 +31,7 @@ The Star Schema includes one *fact* table (`SongPlays`), and 4 *dimension* table
 
 We used Star Schema in our dataset to denormalized and allowing for simpler queries and quicker aggregations. furthermore, that will help Data Scientists to be able to easily query this dataset and acquiring insights about what songs, artists, and what audiences prefer listening to.
 
-Also, there is no doubt, denormalized data does have drawbacks. 
+Also, there is no doubt, denormalized data does have drawbacks, 
 which means of decrease in data integrity and query flexibility.
 
 # Steps to run this project: 
